@@ -24,8 +24,8 @@
 	border-color:#6D3619;
 }
 .staticPageList{
-	
-	margin:4% 2% 2%;
+	/*margin:4% 2% 2%;*/
+	margin:1% 0% 2%;
 }
 .staticPageList .ui-btn:hover,.staticPageList .ui-btn:focus,.staticPageList .ui-btn:active{
 	background:#fff url(../images/list_bg.png) !important;
